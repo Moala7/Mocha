@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Moala7
+- 👋 Hi, I’m @Mocha
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Web Development, Python, Data etc
 - 💞️ I’m looking to collaborate on ...
