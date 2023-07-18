@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Moala7
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Web Development, Python etc.
+- 🌱 I’m currently learning Web Development, Python, Data etc
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
